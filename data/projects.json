@@ -1,11 +1,11 @@
 [
   {
-    "company": "Kent YazÄ±lÄ±m",
-    "role": "Frontend Developer (GÃ¼ncel)",
+    "company": "Kent YazÃÂ±lÃÂ±m",
+    "role": "Frontend Developer (GÃÂ¼ncel)",
     "projects": [
       {
         "title": "Belediye Otomasyon Sistemi - Web & Mobil",
-        "description": "70'e yakÄ±n belediye tarafÄ±ndan kullanÄ±lan eski masaÃ¼stÃ¼ otomasyon sisteminin, React ve React Native tabanlÄ± web ve mobil platformlara taÅÄ±nmasÄ± sÃ¼recinde gÃ¶rev alÄ±yorum. Personel, bÃ¼tÃ§e, taÅÄ±nÄ±r mal, su hizmetleri gibi temel modÃ¼llerin geliÅtirilmesini sÃ¼rdÃ¼rÃ¼yorum. Zustand, Redux, TanStack Query, Axios gibi state ve veri yÃ¶netim kÃ¼tÃ¼phanelerini etkin Åekilde kullanÄ±yor; performans iyileÅtirmeleri iÃ§in memoization tekniklerini (React.memo, useMemo, useCallback) uyguluyorum. Figma tasarÄ±mlarÄ±nÄ±n uyarlanmasÄ±, responsive arayÃ¼z tasarÄ±mlarÄ± ve sÃ¼rdÃ¼rÃ¼lebilir mimari oluÅturma konularÄ±nda aktif rol alÄ±yorum."
+        "description": "70'e yakÃÂ±n belediye tarafÃÂ±ndan kullanÃÂ±lan eski masaÃÂ¼stÃÂ¼ otomasyon sisteminin, React ve React Native tabanlÃÂ± web ve mobil platformlara taÃÂÃÂ±nmasÃÂ± sÃÂ¼recinde gÃÂ¶rev alÃÂ±yorum. Personel, bÃÂ¼tÃÂ§e, taÃÂÃÂ±nÃÂ±r mal, su hizmetleri gibi temel modÃÂ¼llerin geliÃÂtirilmesini sÃÂ¼rdÃÂ¼rÃÂ¼yorum. Zustand, Redux, TanStack Query, Axios gibi state ve veri yÃÂ¶netim kÃÂ¼tÃÂ¼phanelerini etkin ÃÂekilde kullanÃÂ±yor; performans iyileÃÂtirmeleri iÃÂ§in memoization tekniklerini (React.memo, useMemo, useCallback) uyguluyorum. Figma tasarÃÂ±mlarÃÂ±nÃÂ±n uyarlanmasÃÂ±, responsive arayÃÂ¼z tasarÃÂ±mlarÃÂ± ve sÃÂ¼rdÃÂ¼rÃÂ¼lebilir mimari oluÃÂturma konularÃÂ±nda aktif rol alÃÂ±yorum."
       }
     ]
   },
@@ -15,15 +15,15 @@
     "projects": [
       {
         "title": "Deliverect",
-        "description": "Ä°ngiltere, Fransa ve bir Ã§ok Ã¼lke de faaliyet gÃ¶steren restoran zincirleri iÃ§in geliÅtirilen yÃ¶netim platformunda gÃ¶rev aldÄ±m. API tabanlÄ± Ã§oklu dil desteÄi, responsive tasarÄ±m, proxy props, global state yÃ¶netimi, hata izleme ve performans iyileÅtirmeleri gerÃ§ekleÅtirdim. Platform; Deliveroo, Just Eat, Uber Eats, Burger King ve Popeyes gibi global markalar tarafÄ±ndan kullanÄ±lmaktadÄ±r."
+        "description": "ÃÂ°ngiltere, Fransa ve bir ÃÂ§ok ÃÂ¼lke de faaliyet gÃÂ¶steren restoran zincirleri iÃÂ§in geliÃÂtirilen yÃÂ¶netim platformunda gÃÂ¶rev aldÃÂ±m. API tabanlÃÂ± ÃÂ§oklu dil desteÃÂi, responsive tasarÃÂ±m, proxy props, global state yÃÂ¶netimi, hata izleme ve performans iyileÃÂtirmeleri gerÃÂ§ekleÃÂtirdim. Platform; Deliveroo, Just Eat, Uber Eats, Burger King ve Popeyes gibi global markalar tarafÃÂ±ndan kullanÃÂ±lmaktadÃÂ±r."
       },
       {
         "title": "Kimono",
-        "description": "Almanya'da engelli bireyler ile Ã¼reticileri buluÅturan sosyal bir platformun geliÅtirilmesinde yer aldÄ±m. TanStack Query, mikro servis entegrasyonlarÄ±, eriÅilebilirlik standartlarÄ±, versiyon testleri ve kullanÄ±cÄ± geri bildirimleri doÄrultusunda Ã¶n yÃ¼z geliÅtirmeleri gerÃ§ekleÅtirdim."
+        "description": "Almanya'da engelli bireyler ile ÃÂ¼reticileri buluÃÂturan sosyal bir platformun geliÃÂtirilmesinde yer aldÃÂ±m. TanStack Query, mikro servis entegrasyonlarÃÂ±, eriÃÂilebilirlik standartlarÃÂ±, versiyon testleri ve kullanÃÂ±cÃÂ± geri bildirimleri doÃÂrultusunda ÃÂ¶n yÃÂ¼z geliÃÂtirmeleri gerÃÂ§ekleÃÂtirdim."
       },
       {
         "title": "GetFudo",
-        "description": "Ä°ngiltereâde faaliyet gÃ¶steren restoranlarÄ±n Ã§oklu platformlarda fiyat ve menÃ¼ yÃ¶netimini saÄlayan sistemin geliÅtirilmesinde gÃ¶rev aldÄ±m. TanStack Router, React Testing Library, custom hook'lar, state yÃ¶netimi ve mobil uyumluluk konularÄ±nda katkÄ± sundum."
+        "description": "ÃÂ°ngiltereÃ¢ÂÂde faaliyet gÃÂ¶steren restoranlarÃÂ±n ÃÂ§oklu platformlarda fiyat ve menÃÂ¼ yÃÂ¶netimini saÃÂlayan sistemin geliÃÂtirilmesinde gÃÂ¶rev aldÃÂ±m. TanStack Router, React Testing Library, custom hook'lar, state yÃÂ¶netimi ve mobil uyumluluk konularÃÂ±nda katkÃÂ± sundum."
       }
     ]
   },
@@ -33,7 +33,7 @@
     "projects": [
       {
         "title": "Jurnalle RESTful API",
-        "description": "ASP.NET Core ve Entity Framework Core kullanarak Code First prensibiyle kurumsal dÃ¼zeyde bir RESTful API geliÅtirdim. PostgreSQL geÃ§iÅi, JWT ile kimlik doÄrulama, Role-Based Authorization, HATEOAS, rate limiting, logging, versioning, hata yÃ¶netimi, response shaping, caching, media type negotiation (JSON, XML, CSV) ve Swagger entegrasyonu gibi modern yazÄ±lÄ±m mimarisi prensipleriyle Ã§Ã¶zÃ¼mler sundum."
+        "description": "ASP.NET Core ve Entity Framework Core kullanarak Code First prensibiyle kurumsal dÃÂ¼zeyde bir RESTful API geliÃÂtirdim. PostgreSQL geÃÂ§iÃÂi, JWT ile kimlik doÃÂrulama, Role-Based Authorization, HATEOAS, rate limiting, logging, versioning, hata yÃÂ¶netimi, response shaping, caching, media type negotiation (JSON, XML, CSV) ve Swagger entegrasyonu gibi modern yazÃÂ±lÃÂ±m mimarisi prensipleriyle ÃÂ§ÃÂ¶zÃÂ¼mler sundum."
       }
     ]
   },
@@ -42,26 +42,26 @@
     "role": "Flutter & SQL Developer",
     "projects": [
       {
-        "title": "PortAkÄ±l",
-        "description": "Servis ÅofÃ¶rleri ve Ã¶Ärenci velileri arasÄ±nda iletiÅimi saÄlayan, konum takibi Ã¶zellikli bir mobil uygulama geliÅtirdim. Flutter, GetX, Firebase Realtime Database teknolojilerini kullanarak konum paylaÅÄ±mÄ±, kullanÄ±cÄ± giriÅ/Ã§Ä±kÄ±Å, bildirim sistemleri gibi Ã¶zellikleri hayata geÃ§irdim."
+        "title": "PortAkÃÂ±l",
+        "description": "Servis ÃÂofÃÂ¶rleri ve ÃÂ¶ÃÂrenci velileri arasÃÂ±nda iletiÃÂimi saÃÂlayan, konum takibi ÃÂ¶zellikli bir mobil uygulama geliÃÂtirdim. Flutter, GetX, Firebase Realtime Database teknolojilerini kullanarak konum paylaÃÂÃÂ±mÃÂ±, kullanÃÂ±cÃÂ± giriÃÂ/ÃÂ§ÃÂ±kÃÂ±ÃÂ, bildirim sistemleri gibi ÃÂ¶zellikleri hayata geÃÂ§irdim."
       },
       {
         "title": "Sence",
-        "description": "Toplum temelli anket ve oylama sistemi olarak kurgulanan bu uygulamanÄ±n kullanÄ±cÄ± arayÃ¼zlerini ve veri iÅleme mantÄ±ÄÄ±nÄ± Flutter ile geliÅtirdim. Anket oluÅturma, oy toplama, grafiksel sonuÃ§ sunumu gibi bileÅenleri kapsayan dinamik bir yapÄ± oluÅturuldu."
+        "description": "Toplum temelli anket ve oylama sistemi olarak kurgulanan bu uygulamanÃÂ±n kullanÃÂ±cÃÂ± arayÃÂ¼zlerini ve veri iÃÂleme mantÃÂ±ÃÂÃÂ±nÃÂ± Flutter ile geliÃÂtirdim. Anket oluÃÂturma, oy toplama, grafiksel sonuÃÂ§ sunumu gibi bileÃÂenleri kapsayan dinamik bir yapÃÂ± oluÃÂturuldu."
       },
       {
         "title": "Extoget",
-        "description": "Ticari firmalarÄ±n toptan satÄ±Å operasyonlarÄ±nÄ± dijitalleÅtiren bir B2B e-ticaret platformu geliÅtirdim. ÃrÃ¼n yÃ¶netimi, sipariÅ takibi, mÃ¼Återi gruplarÄ±na Ã¶zel fiyatlandÄ±rma gibi modÃ¼lleri Flutter ve .NET Core destekli API yapÄ±larÄ±yla entegre ederek iÅlevsel hale getirdim. MsSQL Ã¼zerinde view, procedure ve sorgular geliÅtirerek veri tarafÄ±nda katkÄ± sundum."
+        "description": "Ticari firmalarÃÂ±n toptan satÃÂ±ÃÂ operasyonlarÃÂ±nÃÂ± dijitalleÃÂtiren bir B2B e-ticaret platformu geliÃÂtirdim. ÃÂrÃÂ¼n yÃÂ¶netimi, sipariÃÂ takibi, mÃÂ¼ÃÂteri gruplarÃÂ±na ÃÂ¶zel fiyatlandÃÂ±rma gibi modÃÂ¼lleri Flutter ve .NET Core destekli API yapÃÂ±larÃÂ±yla entegre ederek iÃÂlevsel hale getirdim. MsSQL ÃÂ¼zerinde view, procedure ve sorgular geliÃÂtirerek veri tarafÃÂ±nda katkÃÂ± sundum."
       }
     ]
   },
   {
     "company": "Freelance",
-    "role": "Siber GÃ¼venlik UzmanÄ±",
+    "role": "Siber GÃÂ¼venlik UzmanÃÂ±",
     "projects": [
       {
-        "title": "Penetrasyon Testleri ve GÃ¼venlik AraÃ§larÄ±",
-        "description": "Freelance olarak penetrasyon testleri gerÃ§ekleÅtirdim. DDOS, MITM, phishing, BEEF, nmap, hash kÄ±rma, sanal makine, VPN, DNS deÄiÅtirme, handshake yakalama ve malware test senaryolarÄ± gibi konularda ileri dÃ¼zeyde analiz ve saldÄ±rÄ± simÃ¼lasyonlarÄ± gerÃ§ekleÅtirdim. Maltigo gibi araÃ§larla OSINT tabanlÄ± siber istihbarat toplama Ã§alÄ±ÅmalarÄ± yÃ¼rÃ¼ttÃ¼m."
+        "title": "Penetrasyon Testleri ve GÃÂ¼venlik AraÃÂ§larÃÂ±",
+        "description": "Freelance olarak penetrasyon testleri gerÃÂ§ekleÃÂtirdim. DDOS, MITM, phishing, BEEF, nmap, hash kÃÂ±rma, sanal makine, VPN, DNS deÃÂiÃÂtirme, handshake yakalama ve malware test senaryolarÃÂ± gibi konularda ileri dÃÂ¼zeyde analiz ve saldÃÂ±rÃÂ± simÃÂ¼lasyonlarÃÂ± gerÃÂ§ekleÃÂtirdim. Maltigo gibi araÃÂ§larla OSINT tabanlÃÂ± siber istihbarat toplama ÃÂ§alÃÂ±ÃÂmalarÃÂ± yÃÂ¼rÃÂ¼ttÃÂ¼m."
       }
     ]
   }
