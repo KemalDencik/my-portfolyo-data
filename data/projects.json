@@ -74,45 +74,5 @@
         "description": "demo"
       }
     ]
-  },
-  {
-    "company": "demo2",
-    "role": "demo2",
-    "projects": [
-      {
-        "title": "demo2",
-        "description": "demo2"
-      }
-    ]
-  },
-  {
-    "company": "test",
-    "role": "test",
-    "projects": [
-      {
-        "title": "test",
-        "description": "test"
-      }
-    ]
-  },
-  {
-    "company": "asd",
-    "role": "asd",
-    "projects": [
-      {
-        "title": "asd",
-        "description": "asd"
-      }
-    ]
-  },
-  {
-    "company": "test2",
-    "role": "test2",
-    "projects": [
-      {
-        "title": "test2",
-        "description": "test2"
-      }
-    ]
   }
 ]
