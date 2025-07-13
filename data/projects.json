@@ -84,5 +84,15 @@
         "description": "demo2"
       }
     ]
+  },
+  {
+    "company": "test",
+    "role": "test",
+    "projects": [
+      {
+        "title": "test",
+        "description": "test"
+      }
+    ]
   }
 ]
