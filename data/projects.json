@@ -64,5 +64,15 @@
         "description": "Freelance olarak penetrasyon testleri gerÃÂ§ekleÃÂtirdim. DDOS, MITM, phishing, BEEF, nmap, hash kÃÂ±rma, sanal makine, VPN, DNS deÃÂiÃÂtirme, handshake yakalama ve malware test senaryolarÃÂ± gibi konularda ileri dÃÂ¼zeyde analiz ve saldÃÂ±rÃÂ± simÃÂ¼lasyonlarÃÂ± gerÃÂ§ekleÃÂtirdim. Maltigo gibi araÃÂ§larla OSINT tabanlÃÂ± siber istihbarat toplama ÃÂ§alÃÂ±ÃÂmalarÃÂ± yÃÂ¼rÃÂ¼ttÃÂ¼m."
       }
     ]
+  },
+  {
+    "company": "test",
+    "role": "test",
+    "projects": [
+      {
+        "title": "test",
+        "description": "test"
+      }
+    ]
   }
 ]
