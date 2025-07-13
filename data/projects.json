@@ -1,11 +1,11 @@
 [
   {
-    "company": "Kent Yazılım",
-    "role": "Frontend Developer (Güncel)",
+    "company": "Kent YazÄ±lÄ±m",
+    "role": "Frontend Developer (GÃ¼ncel)",
     "projects": [
       {
         "title": "Belediye Otomasyon Sistemi - Web & Mobil",
-        "description": "70'e yakın belediye tarafından kullanılan eski masaüstü otomasyon sisteminin, React ve React Native tabanlı web ve mobil platformlara taşınması sürecinde görev alıyorum. Personel, bütçe, taşınır mal, su hizmetleri gibi temel modüllerin geliştirilmesini sürdürüyorum. Zustand, Redux, TanStack Query, Axios gibi state ve veri yönetim kütüphanelerini etkin şekilde kullanıyor; performans iyileştirmeleri için memoization tekniklerini (React.memo, useMemo, useCallback) uyguluyorum. Figma tasarımlarının uyarlanması, responsive arayüz tasarımları ve sürdürülebilir mimari oluşturma konularında aktif rol alıyorum."
+        "description": "70'e yakÄ±n belediye tarafÄ±ndan kullanÄ±lan eski masaÃ¼stÃ¼ otomasyon sisteminin, React ve React Native tabanlÄ± web ve mobil platformlara taÅÄ±nmasÄ± sÃ¼recinde gÃ¶rev alÄ±yorum. Personel, bÃ¼tÃ§e, taÅÄ±nÄ±r mal, su hizmetleri gibi temel modÃ¼llerin geliÅtirilmesini sÃ¼rdÃ¼rÃ¼yorum. Zustand, Redux, TanStack Query, Axios gibi state ve veri yÃ¶netim kÃ¼tÃ¼phanelerini etkin Åekilde kullanÄ±yor; performans iyileÅtirmeleri iÃ§in memoization tekniklerini (React.memo, useMemo, useCallback) uyguluyorum. Figma tasarÄ±mlarÄ±nÄ±n uyarlanmasÄ±, responsive arayÃ¼z tasarÄ±mlarÄ± ve sÃ¼rdÃ¼rÃ¼lebilir mimari oluÅturma konularÄ±nda aktif rol alÄ±yorum."
       }
     ]
   },
@@ -15,15 +15,15 @@
     "projects": [
       {
         "title": "Deliverect",
-        "description": "İngiltere, Fransa ve bir çok ülke de faaliyet gösteren restoran zincirleri için geliştirilen yönetim platformunda görev aldım. API tabanlı çoklu dil desteği, responsive tasarım, proxy props, global state yönetimi, hata izleme ve performans iyileştirmeleri gerçekleştirdim. Platform; Deliveroo, Just Eat, Uber Eats, Burger King ve Popeyes gibi global markalar tarafından kullanılmaktadır."
+        "description": "Ä°ngiltere, Fransa ve bir Ã§ok Ã¼lke de faaliyet gÃ¶steren restoran zincirleri iÃ§in geliÅtirilen yÃ¶netim platformunda gÃ¶rev aldÄ±m. API tabanlÄ± Ã§oklu dil desteÄi, responsive tasarÄ±m, proxy props, global state yÃ¶netimi, hata izleme ve performans iyileÅtirmeleri gerÃ§ekleÅtirdim. Platform; Deliveroo, Just Eat, Uber Eats, Burger King ve Popeyes gibi global markalar tarafÄ±ndan kullanÄ±lmaktadÄ±r."
       },
       {
         "title": "Kimono",
-        "description": "Almanya'da engelli bireyler ile üreticileri buluşturan sosyal bir platformun geliştirilmesinde yer aldım. TanStack Query, mikro servis entegrasyonları, erişilebilirlik standartları, versiyon testleri ve kullanıcı geri bildirimleri doğrultusunda ön yüz geliştirmeleri gerçekleştirdim."
+        "description": "Almanya'da engelli bireyler ile Ã¼reticileri buluÅturan sosyal bir platformun geliÅtirilmesinde yer aldÄ±m. TanStack Query, mikro servis entegrasyonlarÄ±, eriÅilebilirlik standartlarÄ±, versiyon testleri ve kullanÄ±cÄ± geri bildirimleri doÄrultusunda Ã¶n yÃ¼z geliÅtirmeleri gerÃ§ekleÅtirdim."
       },
       {
         "title": "GetFudo",
-        "description": "İngiltere’de faaliyet gösteren restoranların çoklu platformlarda fiyat ve menü yönetimini sağlayan sistemin geliştirilmesinde görev aldım. TanStack Router, React Testing Library, custom hook'lar, state yönetimi ve mobil uyumluluk konularında katkı sundum."
+        "description": "Ä°ngiltereâde faaliyet gÃ¶steren restoranlarÄ±n Ã§oklu platformlarda fiyat ve menÃ¼ yÃ¶netimini saÄlayan sistemin geliÅtirilmesinde gÃ¶rev aldÄ±m. TanStack Router, React Testing Library, custom hook'lar, state yÃ¶netimi ve mobil uyumluluk konularÄ±nda katkÄ± sundum."
       }
     ]
   },
@@ -33,7 +33,7 @@
     "projects": [
       {
         "title": "Jurnalle RESTful API",
-        "description": "ASP.NET Core ve Entity Framework Core kullanarak Code First prensibiyle kurumsal düzeyde bir RESTful API geliştirdim. PostgreSQL geçişi, JWT ile kimlik doğrulama, Role-Based Authorization, HATEOAS, rate limiting, logging, versioning, hata yönetimi, response shaping, caching, media type negotiation (JSON, XML, CSV) ve Swagger entegrasyonu gibi modern yazılım mimarisi prensipleriyle çözümler sundum."
+        "description": "ASP.NET Core ve Entity Framework Core kullanarak Code First prensibiyle kurumsal dÃ¼zeyde bir RESTful API geliÅtirdim. PostgreSQL geÃ§iÅi, JWT ile kimlik doÄrulama, Role-Based Authorization, HATEOAS, rate limiting, logging, versioning, hata yÃ¶netimi, response shaping, caching, media type negotiation (JSON, XML, CSV) ve Swagger entegrasyonu gibi modern yazÄ±lÄ±m mimarisi prensipleriyle Ã§Ã¶zÃ¼mler sundum."
       }
     ]
   },
@@ -42,36 +42,26 @@
     "role": "Flutter & SQL Developer",
     "projects": [
       {
-        "title": "PortAkıl",
-        "description": "Servis şoförleri ve öğrenci velileri arasında iletişimi sağlayan, konum takibi özellikli bir mobil uygulama geliştirdim. Flutter, GetX, Firebase Realtime Database teknolojilerini kullanarak konum paylaşımı, kullanıcı giriş/çıkış, bildirim sistemleri gibi özellikleri hayata geçirdim."
+        "title": "PortAkÄ±l",
+        "description": "Servis ÅofÃ¶rleri ve Ã¶Ärenci velileri arasÄ±nda iletiÅimi saÄlayan, konum takibi Ã¶zellikli bir mobil uygulama geliÅtirdim. Flutter, GetX, Firebase Realtime Database teknolojilerini kullanarak konum paylaÅÄ±mÄ±, kullanÄ±cÄ± giriÅ/Ã§Ä±kÄ±Å, bildirim sistemleri gibi Ã¶zellikleri hayata geÃ§irdim."
       },
       {
         "title": "Sence",
-        "description": "Toplum temelli anket ve oylama sistemi olarak kurgulanan bu uygulamanın kullanıcı arayüzlerini ve veri işleme mantığını Flutter ile geliştirdim. Anket oluşturma, oy toplama, grafiksel sonuç sunumu gibi bileşenleri kapsayan dinamik bir yapı oluşturuldu."
+        "description": "Toplum temelli anket ve oylama sistemi olarak kurgulanan bu uygulamanÄ±n kullanÄ±cÄ± arayÃ¼zlerini ve veri iÅleme mantÄ±ÄÄ±nÄ± Flutter ile geliÅtirdim. Anket oluÅturma, oy toplama, grafiksel sonuÃ§ sunumu gibi bileÅenleri kapsayan dinamik bir yapÄ± oluÅturuldu."
       },
       {
         "title": "Extoget",
-        "description": "Ticari firmaların toptan satış operasyonlarını dijitalleştiren bir B2B e-ticaret platformu geliştirdim. Ürün yönetimi, sipariş takibi, müşteri gruplarına özel fiyatlandırma gibi modülleri Flutter ve .NET Core destekli API yapılarıyla entegre ederek işlevsel hale getirdim. MsSQL üzerinde view, procedure ve sorgular geliştirerek veri tarafında katkı sundum."
+        "description": "Ticari firmalarÄ±n toptan satÄ±Å operasyonlarÄ±nÄ± dijitalleÅtiren bir B2B e-ticaret platformu geliÅtirdim. ÃrÃ¼n yÃ¶netimi, sipariÅ takibi, mÃ¼Återi gruplarÄ±na Ã¶zel fiyatlandÄ±rma gibi modÃ¼lleri Flutter ve .NET Core destekli API yapÄ±larÄ±yla entegre ederek iÅlevsel hale getirdim. MsSQL Ã¼zerinde view, procedure ve sorgular geliÅtirerek veri tarafÄ±nda katkÄ± sundum."
       }
     ]
   },
   {
     "company": "Freelance",
-    "role": "Siber Güvenlik Uzmanı",
+    "role": "Siber GÃ¼venlik UzmanÄ±",
     "projects": [
       {
-        "title": "Penetrasyon Testleri ve Güvenlik Araçları",
-        "description": "Freelance olarak penetrasyon testleri gerçekleştirdim. DDOS, MITM, phishing, BEEF, nmap, hash kırma, sanal makine, VPN, DNS değiştirme, handshake yakalama ve malware test senaryoları gibi konularda ileri düzeyde analiz ve saldırı simülasyonları gerçekleştirdim. Maltigo gibi araçlarla OSINT tabanlı siber istihbarat toplama çalışmaları yürüttüm."
-      }
-    ]
-  },
-  {
-    "company": "demo",
-    "role": "demo",
-    "projects": [
-      {
-        "title": "demo",
-        "description": "demo"
+        "title": "Penetrasyon Testleri ve GÃ¼venlik AraÃ§larÄ±",
+        "description": "Freelance olarak penetrasyon testleri gerÃ§ekleÅtirdim. DDOS, MITM, phishing, BEEF, nmap, hash kÄ±rma, sanal makine, VPN, DNS deÄiÅtirme, handshake yakalama ve malware test senaryolarÄ± gibi konularda ileri dÃ¼zeyde analiz ve saldÄ±rÄ± simÃ¼lasyonlarÄ± gerÃ§ekleÅtirdim. Maltigo gibi araÃ§larla OSINT tabanlÄ± siber istihbarat toplama Ã§alÄ±ÅmalarÄ± yÃ¼rÃ¼ttÃ¼m."
       }
     ]
   }
