@@ -74,5 +74,15 @@
         "description": "demo"
       }
     ]
+  },
+  {
+    "company": "demo2",
+    "role": "demo2",
+    "projects": [
+      {
+        "title": "demo2",
+        "description": "demo2"
+      }
+    ]
   }
 ]
