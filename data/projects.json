@@ -1,0 +1,69 @@
+[
+    {
+      "company": "Kent Yazılım",
+      "role": "Frontend Developer (Güncel)",
+      "projects": [
+        {
+          "title": "Belediye Otomasyon Sistemi - Web & Mobil",
+          "description": "70'e yakın belediye tarafından kullanılan eski masaüstü otomasyon sisteminin, React ve React Native tabanlı web ve mobil platformlara taşınması sürecinde görev alıyorum. Personel, bütçe, taşınır mal, su hizmetleri gibi temel modüllerin geliştirilmesini sürdürüyorum. Zustand, Redux, TanStack Query, Axios gibi state ve veri yönetim kütüphanelerini etkin şekilde kullanıyor; performans iyileştirmeleri için memoization tekniklerini (React.memo, useMemo, useCallback) uyguluyorum. Figma tasarımlarının uyarlanması, responsive arayüz tasarımları ve sürdürülebilir mimari oluşturma konularında aktif rol alıyorum."
+        }
+      ]
+    },
+    {
+      "company": "IOTIQ GmbH",
+      "role": "Frontend Developer",
+      "projects": [
+        {
+          "title": "Deliverect",
+          "description": "İngiltere, Fransa ve bir çok ülke de faaliyet gösteren restoran zincirleri için geliştirilen yönetim platformunda görev aldım. API tabanlı çoklu dil desteği, responsive tasarım, proxy props, global state yönetimi, hata izleme ve performans iyileştirmeleri gerçekleştirdim. Platform; Deliveroo, Just Eat, Uber Eats, Burger King ve Popeyes gibi global markalar tarafından kullanılmaktadır."
+        },
+        {
+          "title": "Kimono",
+          "description": "Almanya'da engelli bireyler ile üreticileri buluşturan sosyal bir platformun geliştirilmesinde yer aldım. TanStack Query, mikro servis entegrasyonları, erişilebilirlik standartları, versiyon testleri ve kullanıcı geri bildirimleri doğrultusunda ön yüz geliştirmeleri gerçekleştirdim."
+        },
+        {
+          "title": "GetFudo",
+          "description": "İngiltere’de faaliyet gösteren restoranların çoklu platformlarda fiyat ve menü yönetimini sağlayan sistemin geliştirilmesinde görev aldım. TanStack Router, React Testing Library, custom hook'lar, state yönetimi ve mobil uyumluluk konularında katkı sundum."
+        }
+      ]
+    },
+    {
+      "company": "Jurnalle",
+      "role": "Backend Developer",
+      "projects": [
+        {
+          "title": "Jurnalle RESTful API",
+          "description": "ASP.NET Core ve Entity Framework Core kullanarak Code First prensibiyle kurumsal düzeyde bir RESTful API geliştirdim. PostgreSQL geçişi, JWT ile kimlik doğrulama, Role-Based Authorization, HATEOAS, rate limiting, logging, versioning, hata yönetimi, response shaping, caching, media type negotiation (JSON, XML, CSV) ve Swagger entegrasyonu gibi modern yazılım mimarisi prensipleriyle çözümler sundum."
+        }
+      ]
+    },
+    {
+      "company": "Argem Bilgi Teknolojileri",
+      "role": "Flutter & SQL Developer",
+      "projects": [
+        {
+          "title": "PortAkıl",
+          "description": "Servis şoförleri ve öğrenci velileri arasında iletişimi sağlayan, konum takibi özellikli bir mobil uygulama geliştirdim. Flutter, GetX, Firebase Realtime Database teknolojilerini kullanarak konum paylaşımı, kullanıcı giriş/çıkış, bildirim sistemleri gibi özellikleri hayata geçirdim."
+        },
+        {
+          "title": "Sence",
+          "description": "Toplum temelli anket ve oylama sistemi olarak kurgulanan bu uygulamanın kullanıcı arayüzlerini ve veri işleme mantığını Flutter ile geliştirdim. Anket oluşturma, oy toplama, grafiksel sonuç sunumu gibi bileşenleri kapsayan dinamik bir yapı oluşturuldu."
+        },
+        {
+          "title": "Extoget",
+          "description": "Ticari firmaların toptan satış operasyonlarını dijitalleştiren bir B2B e-ticaret platformu geliştirdim. Ürün yönetimi, sipariş takibi, müşteri gruplarına özel fiyatlandırma gibi modülleri Flutter ve .NET Core destekli API yapılarıyla entegre ederek işlevsel hale getirdim. MsSQL üzerinde view, procedure ve sorgular geliştirerek veri tarafında katkı sundum."
+        }
+      ]
+    },
+    {
+      "company": "Freelance",
+      "role": "Siber Güvenlik Uzmanı",
+      "projects": [
+        {
+          "title": "Penetrasyon Testleri ve Güvenlik Araçları",
+          "description": "Freelance olarak penetrasyon testleri gerçekleştirdim. DDOS, MITM, phishing, BEEF, nmap, hash kırma, sanal makine, VPN, DNS değiştirme, handshake yakalama ve malware test senaryoları gibi konularda ileri düzeyde analiz ve saldırı simülasyonları gerçekleştirdim. Maltigo gibi araçlarla OSINT tabanlı siber istihbarat toplama çalışmaları yürüttüm."
+        }
+      ]
+    }
+  ]
+  
