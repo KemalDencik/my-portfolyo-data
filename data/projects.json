@@ -104,5 +104,15 @@
         "description": "asd"
       }
     ]
+  },
+  {
+    "company": "test2",
+    "role": "test2",
+    "projects": [
+      {
+        "title": "test2",
+        "description": "test2"
+      }
+    ]
   }
 ]
